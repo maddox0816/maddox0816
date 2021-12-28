@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maddox0816
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development and Python.
 - 🌱 I’m currently learning PHP, Javascript, CSS, and HTML.
 
 <!---
